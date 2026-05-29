@@ -9,13 +9,13 @@
 
 This repository contains the complete code and analysis for my Master's thesis:
 
-**"Machine Learning Prediction of PAM50 Subtypes in Hormone Receptor Negative (HR-) Breast Cancer from Gene Expression"**
+**Machine Learning Prediction of PAM50 Subtypes in Hormone Receptor Negative (HR-) Breast Cancer from Gene Expression**
 
 *Author:* Amat Cham  
 *Supervisor:* Prof. Dr. Adrian Crăciun  
 *Institution:* West University of Timișoara, Faculty of Computer Science  
 *Programme:* Master's in Bioinformatics  
-*Year:* 2026
+*Year:* May 2026
 
 ## Abstract
 
